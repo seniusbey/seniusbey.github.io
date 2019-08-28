@@ -153,7 +153,7 @@ window.SERVER_HOST = 'ws://localhost:1337' // Hostname/IP of the server where th
         macroFeedInterval: null
     }
     window.bots = {
-        nameLM: 'Legendmod|ml',
+        nameLM: 'xSNS v1',
         amount: 0,
         ai: false,
 		remoteIP: 'vps ip'
